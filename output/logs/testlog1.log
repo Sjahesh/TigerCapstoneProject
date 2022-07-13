@@ -1,0 +1,95 @@
+2022-06-15 00:52:39,053 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 00:53:45,018 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 00:54:19,124 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 00:54:26,267 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 00:54:26,509 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 00:54:26,760 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 00:54:26,871 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 00:54:27,252 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 00:54:27,275 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 00:54:50,881 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 00:54:54,045 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 00:54:54,105 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 00:54:54,373 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 00:54:54,579 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 00:54:54,979 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 00:54:55,026 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 00:54:55,731 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 00:59:47,961 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 00:59:51,139 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 00:59:51,194 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 00:59:51,535 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 00:59:51,727 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 00:59:52,142 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 00:59:52,199 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 00:59:52,865 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 01:02:20,820 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 01:02:24,011 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 01:02:24,068 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 01:02:24,347 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 01:02:24,563 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 01:02:24,942 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 01:02:24,975 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 01:02:25,622 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:10:14,243 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:10:20,308 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:10:20,359 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:10:20,608 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:10:20,910 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:10:49,671 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:10:49,709 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:10:50,398 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:15:39,782 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:15:45,060 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:15:45,115 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:15:45,343 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:15:45,588 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:16:23,895 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:16:23,928 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:16:24,562 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:27:30,295 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:27:35,463 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:27:35,519 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:27:35,779 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:28:03,807 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:28:04,790 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:28:04,840 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:28:05,556 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:31:16,903 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:31:22,253 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:31:22,305 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:31:22,542 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:31:22,855 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:31:59,588 [main] INFO logger_File - Scenario Login to Test Environment with One User FAILED
+2022-06-15 21:32:17,441 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:32:22,579 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:32:22,633 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:32:22,880 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:32:23,171 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:33:01,217 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:33:01,259 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:33:01,918 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:33:13,999 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:33:19,167 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:33:19,219 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:33:19,447 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:33:47,448 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:33:48,450 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:33:48,478 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:33:49,154 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:34:30,486 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:34:35,684 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:34:35,741 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:34:35,992 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:34:36,273 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:35:05,035 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:35:05,073 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:35:05,743 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
+2022-06-15 21:41:28,391 [main] INFO logger_File - Scenario Login to Test Environment with One User Started
+2022-06-15 21:41:32,963 [main] INFO logger_File - Text Test Environment was verified
+2022-06-15 21:41:33,036 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-15 21:41:33,312 [main] INFO logger_File - Login link was clicked successfully
+2022-06-15 21:41:33,520 [main] INFO logger_File - Emal and password were entered successfully
+2022-06-15 21:41:33,920 [main] INFO logger_File - Login button was clicked successfully
+2022-06-15 21:41:33,953 [main] INFO logger_File - My Account text was verified successfully
+2022-06-15 21:41:34,625 [main] INFO logger_File - Scenario Login to Test Environment with One User PASSED
